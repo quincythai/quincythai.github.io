@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Quincy's Homepage
 
 You can use the [editor on GitHub](https://github.com/quincythai/quincythai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
