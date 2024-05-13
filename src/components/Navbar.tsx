@@ -8,31 +8,31 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-4">
-            <img src="/logo.png" alt="Brand" className="h-10 w-auto" />
+            <div className="text-xl">quincy thai</div>
           </Link>
 
           {/* Links */}
           <div className="flex items-center space-x-4 ml-auto gap-4 font-Lato">
             <Link to="/" className=" text-black font-bold hover: ">
-              Home
+              home
             </Link>
             <Link
               to="/about"
               className=" text-black font-semibold hover:text-green-500 transition duration-300"
             >
-              About
+              about
             </Link>
             <Link
               to="/projects"
               className=" text-black font-semibold hover:text-green-500 transition duration-300"
             >
-              Projects
+              projects
             </Link>
             <Link
               to="/contact"
               className=" text-black font-semibold hover:text-green-500 transition duration-300"
             >
-              Contact
+              contact
             </Link>
           </div>
         </div>
