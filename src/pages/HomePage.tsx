@@ -9,7 +9,7 @@ const HomePage: React.FC = () => {
           <div className="text-lg">
             i am a fourth year studying computer science and minoring in data
             science at uc berkeley. i am passionate about software engineering
-            and creating a modern, beautiful, and intuitive user experience.
+            and creating modern, beautiful, and intuitive user experiences.
           </div>
           <div className="text-3xl">more: </div>
           <div className="text-lg">
@@ -18,7 +18,8 @@ const HomePage: React.FC = () => {
             <a className="text-blue-400" href="https://www.webatberkeley.org/">
               web development at berkeley
             </a>
-            . in my freetime, i love powerlifting, hanging out with friends,{" "}
+            . in my freetime, i love working out (powerlifting), hanging out
+            with friends,{" "}
             <span className="line-through">playing video games</span>, going on
             spontaneous adventures, and listening to music.
           </div>
