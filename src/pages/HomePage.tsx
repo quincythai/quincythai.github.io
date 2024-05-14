@@ -9,7 +9,8 @@ const HomePage: React.FC = () => {
           <div className="text-lg">
             i am a fourth year studying computer science and minoring in data
             science at uc berkeley. i am passionate about software engineering
-            and creating modern, beautiful, and intuitive user experiences.
+            and creating modern, beautiful, and intuitive user experiences. i
+            love the everlasting journey of learning.
           </div>
           <div className="text-3xl">more: </div>
           <div className="text-lg">
@@ -37,6 +38,8 @@ const HomePage: React.FC = () => {
               <img className="h-6" src="resume.svg" alt="resume" />
             </a>
           </div>
+          <div className="text-2xl">reach out about anything: </div>
+          <div className="text-lg">quincythai (at) berkeley (dot) edu</div>
         </div>
         <img
           className="h-60 w-60 object-cover rounded-full"
