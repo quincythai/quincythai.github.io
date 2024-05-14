@@ -13,8 +13,8 @@ const HomePage: React.FC = () => {
           </div>
           <div className="text-3xl">more: </div>
           <div className="text-lg">
-            i am a first generation college and transfer student. i am a full
-            stack developer for{" "}
+            i am a first generation college and transfer student from hayward. i
+            am a full stack developer for{" "}
             <a className="text-blue-400" href="https://www.webatberkeley.org/">
               web development at berkeley
             </a>
